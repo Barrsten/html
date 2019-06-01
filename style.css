@@ -1,0 +1,17 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.flex {
+	display: flex;
+}
+.block {
+	margin-left: 3%;
+	font-family: Arial;
+	text-align: center;
+}
+h3 {
+	margin-top: 10%;
+	font-size: 28px;
+	font-weight: 100;
+}
